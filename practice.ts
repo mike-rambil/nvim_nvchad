@@ -1,5 +1,5 @@
 function myFunction( str : string ){
-  console.log('Hello from Micheal :)', str);
+  console.log(': :)', str);
 }
 
 myFunction('NICE!')

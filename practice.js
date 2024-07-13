@@ -1,4 +1,4 @@
 function myFunction(str) {
-    console.log('Hello from Micheal :)', str);
+    console.log(': :)', str);
 }
 myFunction('NICE!');
